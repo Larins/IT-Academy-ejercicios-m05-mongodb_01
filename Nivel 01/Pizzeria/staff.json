@@ -1,0 +1,57 @@
+[{
+  "_id": 1,
+  "shop_id": 1,
+  "namesurname": "Paquita Lupón",
+  "nif": "12345678A",
+  "phone": "612345678",
+  "role": "Kitchen"
+},{
+  "_id": 2,
+  "shop_id": 1,
+  "namesurname": "Javi Moreno",
+  "nif": "12345678B",
+  "phone": "612345671",
+  "role": "Kitchen"
+},{
+  "_id": 3,
+  "shop_id": 1,
+  "namesurname": "Rita Hernández",
+  "nif": "12345678C",
+  "phone": "612345672",
+  "role": "Delivery"
+},{
+  "_id": 4,
+  "shop_id": 1,
+  "namesurname": "Alfonso Díaz",
+  "nif": "12345678D",
+  "phone": "612345673",
+  "role": "Delivery"
+},{
+  "_id": 5,
+  "shop_id": 2,
+  "namesurname": "Ana Villamarín",
+  "nif": "12345678E",
+  "phone": "612345674",
+  "role": "Kitchen"
+},{
+  "_id": 6,
+  "shop_id": 2,
+  "namesurname": "Héctor de la Plana",
+  "nif": "12345678F",
+  "phone": "612345675",
+  "role": "Kitchen"
+},{
+  "_id": 7,
+  "shop_id": 2,
+  "namesurname": "Mercedes López",
+  "nif": "12345678G",
+  "phone": "612345676",
+  "role": "Delivery"
+},{
+  "_id": 8,
+  "shop_id": 2,
+  "namesurname": "Joaquín Garriga",
+  "nif": "12345678H",
+  "phone": "612345677",
+  "role": "Delivery"
+}]

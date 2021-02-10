@@ -1,0 +1,13 @@
+[{
+  "_id": 1,
+  "address": "Guadiana 26",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "province": "Barcelona"
+},{
+  "_id": 2,
+  "address": "Tarragona 15",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "province": "Barcelona"
+}]

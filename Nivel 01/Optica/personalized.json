@@ -9,7 +9,8 @@
   "glasscolourright": "Brown",
   "glasscolourleft": "Brown",
   "price": "250,40",
-  "personalizationdate": "01/02/2020"
+  "personalizationdate": "01/02/2020",
+  "staff": "Laura Castillejos"
 },{
   "_id": 2,
   "customer_id": 2,
@@ -21,7 +22,8 @@
   "glasscolourright": "Blue",
   "glasscolourleft": "Blue",
   "price": "212,30",
-  "personalizationdate": "10/02/2020"
+  "personalizationdate": "10/02/2020",
+  "staff": "Laura Castillejos"
 },{
   "_id": 3,
   "customer_id": 3,
@@ -33,7 +35,8 @@
   "glasscolourright": "Transparent",
   "glasscolourleft": "Transparent",
   "price": "198,10",
-  "personalizationdate": "5/02/2020"
+  "personalizationdate": "5/02/2020",
+  "staff": "Marta Romero"
 },{
   "_id": 4,
   "customer_id": 4,
@@ -45,7 +48,8 @@
   "glasscolourright": "Transparent",
   "glasscolourleft": "Transparent",
   "price": "258,43",
-  "personalizationdate": "18/02/2020"
+  "personalizationdate": "18/02/2020",
+  "staff": "Laura Castillejos"
 },{
   "_id": 5,
   "customer_id": 5,
@@ -57,7 +61,8 @@
   "glasscolourright": "Transparent",
   "glasscolourleft": "Transparent",
   "price": "236,98",
-  "personalizationdate": "22/02/2020"
+  "personalizationdate": "22/02/2020",
+  "staff": "Marta Romero"
 },{
   "_id": 6,
   "customer_id": 6,
@@ -69,7 +74,8 @@
   "glasscolourright": "Black",
   "glasscolourleft": "Black",
   "price": "199,85",
-  "personalizationdate": "25/02/2020"
+  "personalizationdate": "25/02/2020",
+  "staff": "Laura Castillejos"
 },{
   "_id": 7,
   "customer_id": 7,
@@ -81,7 +87,8 @@
   "glasscolourright": "Brown",
   "glasscolourleft": "Brown",
   "price": "213,45",
-  "personalizationdate": "26/02/2020"
+  "personalizationdate": "26/02/2020",
+  "staff": "Marta Romero"
 },{
   "_id": 8,
   "customer_id": 8,
@@ -93,7 +100,8 @@
   "glasscolourright": "Brown",
   "glasscolourleft": "Brown",
   "price": "265,85",
-  "personalizationdate": "26/02/2020"
+  "personalizationdate": "26/02/2020",
+  "staff": "Marta Romero"
 },{
   "_id": 9,
   "customer_id": 9,
@@ -105,7 +113,8 @@
   "glasscolourright": "Purple",
   "glasscolourleft": "Purple",
   "price": "218,65",
-  "personalizationdate": "28/02/2020"
+  "personalizationdate": "28/02/2020",
+  "staff": "Marta Romero"
 },{
   "_id": 10,
   "customer_id": 10,
@@ -117,5 +126,6 @@
   "glasscolourright": "Transparent",
   "glasscolourleft": "Transparent",
   "price": "245,75",
-  "personalizationdate": "28/02/2020"
+  "personalizationdate": "28/02/2020",
+  "staff": "Laura Castillejos"
 }]

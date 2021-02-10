@@ -1,0 +1,171 @@
+[{
+  "_id": 1,
+  "customer_id": 3,
+  "store_id": 2,
+  "datetime_order": "12/04/2020 19:35",
+  "ordertype": "Delivery",
+  "datetime_delivery": "12/04/2020 20:30",
+  "staff_delivery": 7,
+  "product": [
+    "Pizza Frankfurt",
+    "Pizza Carbonara"
+  ],
+  "qty": [
+    1,
+    1
+  ],
+  "price": [
+    "10,50",
+    "10,50"
+  ],
+  "totalprice": "21,00"
+},{
+  "_id": 2,
+  "customer_id": 6,
+  "store_id": 1,
+  "datetime_order": "12/04/2020 20:45",
+  "ordertype": "Collect",
+  "product": [
+    "Pizza Tropical"
+  ],
+  "qty": [
+    1
+  ],
+  "price": [
+    "10,50"
+  ],
+  "totalprice": "10,50"
+},{
+  "_id": 3,
+  "customer_id": 3,
+  "store_id": 2,
+  "datetime_order": "13/04/2020 13:45",
+  "ordertype": "Delivery",
+  "datetime_delivery": "13/04/2020 14:30",
+  "staff_delivery": 8,
+  "product": [
+    "Pizza Cuatro Estaciones",
+    "Pizza Boloñesa"
+  ],
+  "qty": [
+    1,
+    2
+  ],
+  "price": [
+    "10,50",
+    "10,50"
+  ],
+  "totalprice": "31,50"
+},{
+  "_id": 4,
+  "customer_id": 4,
+  "store_id": 5,
+  "datetime_order": "13/04/2020 14:05",
+  "ordertype": "Collect",
+  "product": [
+    "Pizza Carbonara",
+    "Pizza Atún"
+  ],
+  "qty": [
+    1,
+    1
+  ],
+  "price": [
+    "10,50",
+    "10,50"
+  ],
+  "totalprice": "21,00"
+},{
+  "_id": 5,
+  "customer_id": 5,
+  "store_id": 1,
+  "datetime_order": "16/04/2020 14:25",
+  "ordertype": "Collect",
+  "product": [
+    "Burger Completa",
+    "Patatas fritas",
+    "Mahou"
+  ],
+  "qty": [
+    3,
+    3,
+    3
+  ],
+  "price": [
+    "4,50",
+    "2,50",
+    "1,50"
+  ],
+  "totalprice": "21,50"
+},{
+  "_id": 6,
+  "customer_id": 4,
+  "store_id": 1,
+  "datetime_order": "16/04/2020 19:55",
+  "ordertype": "Delivery",
+  "product": [
+    "Pizza Carbonara",
+    "Pizza Tropical"
+  ],
+  "qty": [
+    1,
+    1
+  ],
+  "price": [
+    "10,50",
+    "10,50"
+  ],
+  "totalprice": "21,00"
+},{
+  "_id": 7,
+  "customer_id": 9,
+  "store_id": 1,
+  "datetime_order": "17/04/2020 19:55",
+  "ordertype": "Collect",
+  "product": [
+    "Burger Completa",
+    "Patatas fritas",
+    "Cola Zero"
+  ],
+  "qty": [
+    2,
+    2,
+    2
+  ],
+  "price": [
+    "4,50",
+    "2,50",
+    "1,50"
+  ],
+  "totalprice": "17,00"
+},{
+  "_id": 8,
+  "customer_id": 7,
+  "store_id": 1,
+  "datetime_order": "18/04/2020 12:55",
+  "ordertype": "Delivery",
+  "datetime_delivery": "18/04/2020 14:00",
+  "staff_delivery": 4,
+  "product": [
+    "Burger Vegetariana",
+    "Burger Completa",
+    "Patatas fritas",
+    "Cola Zero",
+    "Mahou"
+  ],
+  "qty": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "price": [
+    "4,50",
+    "4,50",
+    "2,50",
+    "1,50",
+    "1,50"
+  ],
+  "totalprice": "14,50"
+}]

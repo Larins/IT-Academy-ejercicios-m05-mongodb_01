@@ -1,0 +1,102 @@
+[{
+  "_id": 1,
+  "productname": "Pizza Frankfurt",
+  "type": "Pizza",
+  "pizzacategory_id": 2,
+  "pizzacategory": "Llévate una toalla de Mickey Mouse de regalo",
+  "price": "10,50",
+  "pic": "pizza_frankfurt.png"
+},{
+  "_id": 2,
+  "productname": "Pizza Carbonara",
+  "type": "Pizza",
+  "pizzacategory_id": 2,
+  "pizzacategory": "Llévate una toalla de Mickey Mouse de regalo",
+  "price": "10,50",
+  "pic": "pizza_carbonara.png"
+},{
+  "_id": 3,
+  "productname": "Pizza Atún",
+  "pizzacategory_id": 1,
+  "pizzacategory": "Sin oferta",
+  "type": "Pizza",
+  "price": "10,50",
+  "pic": "pizza_atun.png"
+},{
+  "_id": 4,
+  "productname": "Pizza Tropical",
+  "pizzacategory_id": 1,
+  "pizzacategory": "Sin oferta",
+  "type": "Pizza",
+  "price": "10,50",
+  "pic": "pizza_tropical.png"
+},{
+  "_id": 5,
+  "productname": "Pizza Cuatro Estaciones",
+  "type": "Pizza",
+  "pizzacategory_id": 3,
+  "pizzacategory": "Haz tres pedidos y el cuarto es gratis",
+  "price": "10,50",
+  "pic": "pizza_cuatro_estaciones.png"
+},{
+  "_id": 6,
+  "productname": "Pizza Boloñesa",
+  "pizzacategory_id": 3,
+  "pizzacategory": "Haz tres pedidos y el cuarto es gratis",
+  "type": "Pizza",
+  "price": "10,50",
+  "pic": "pizza_bolonesa.png"
+},{
+  "_id": 7,
+  "productname": "Pizza Vegetariana",
+  "type": "Pizza",
+  "pizzacategory_id": 1,
+  "pizzacategory": "Sin oferta",
+  "price": "10,50",
+  "pic": "pizza_vegetariana.png",
+  "warning": "Apta para vegetarianos"
+},{
+  "_id": 8,
+  "productname": "Burger Completa",
+  "type": "Burger",
+  "price": "4,50",
+  "pic": "burger_completa.png"
+},{
+  "_id": 9,
+  "productname": "Burger Vegetariana",
+  "type": "Burger",
+  "price": "4,50",
+  "pic": "burger_vegetariana.png",
+  "warning": "Apta para vegetarianos"
+},{
+  "_id": 10,
+  "productname": "Patatas Fritas",
+  "type": "Complementos",
+  "price": "2,50",
+  "pic": "patatas_fritas.png"
+},{
+  "_id": 11,
+  "productname": "Cola Zero",
+  "type": "Bebida",
+  "price": "1,50",
+  "pic": "cola_zero.png"
+},{
+  "_id": 12,
+  "productname": "Cola Clásica",
+  "type": "Bebida",
+  "price": "1,50",
+  "pic": "bebida_cola_clasica.png"
+},{
+  "_id": 13,
+  "productname": "Mahou",
+  "type": "Bebida",
+  "price": "1,50",
+  "pic": "bebida_mahou.png",
+  "warning": "Solo para mayores de 18 años"
+},{
+  "_id": 14,
+  "productname": "Agua",
+  "type": "Bebida",
+  "price": "1,50",
+  "pic": "bebida_agua.png"
+}]
