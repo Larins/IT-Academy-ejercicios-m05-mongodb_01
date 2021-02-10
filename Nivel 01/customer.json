@@ -1,0 +1,101 @@
+[{
+  "_id": 1,
+  "namesurname": "Juan Pérez",
+  "address": "América 120",
+  "city": "Madrid",
+  "postalcode": "28042",
+  "phone": "655555555",
+  "email": "juanperez@gmail.com",
+  "registerdate": "01/02/2020",
+  "recommendedby": ""
+},{
+  "_id": 2,
+  "namesurname": "Macarena Gómez",
+  "address": "Constitució 54",
+  "city": "València",
+  "postalcode": "46009",
+  "phone": "644444444",
+  "email": "macarenagomez@gmail.com",
+  "registerdate": "10/02/2020",
+  "recommendedby": "1"
+},{
+  "_id": 3,
+  "namesurname": "Dionisio Fernández",
+  "address": "Catalunya 10",
+  "city": "Barcelona",
+  "postalcode": "08002",
+  "phone": "633333333",
+  "email": "dionisiofernandez@gmail.com",
+  "registerdate": "15/02/2020",
+  "recommendedby": "1"
+},{
+  "_id": 4,
+  "namesurname": "Álvaro Sánchez",
+  "address": "Sant Antoni 20",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "phone": "62222322",
+  "email": "alvarosanchez@gmail.com",
+  "registerdate": "18/02/2020",
+  "recommendedby": "3"
+},{
+  "_id": 5,
+  "namesurname": "Dolores García",
+  "address": "Sant Antoni 28",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "phone": "62224222",
+  "email": "doloresgarcia@gmail.com",
+  "registerdate": "22/02/2020",
+  "recommendedby": "2"
+},{
+  "_id": 6,
+  "namesurname": "Montserrat Guanyabens",
+  "address": "Sant Antoni 36",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "phone": "62222222",
+  "email": "montserratguanyabens@gmail.com",
+  "registerdate": "25/02/2020",
+  "recommendedby": "5"
+},{
+  "_id": 7,
+  "namesurname": "Elisabeth Puigcerdà",
+  "address": "Sant Antoni 12",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "phone": "62332222",
+  "email": "elisabethpuigcerda@gmail.com",
+  "registerdate": "26/02/2020",
+  "recommendedby": "6"
+},{
+  "_id": 8,
+  "namesurname": "Antoni Puigcerdà",
+  "address": "Sant Antoni 12",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "phone": "62332221",
+  "email": "alvarosanchez@gmail.com",
+  "registerdate": "26/02/2020",
+  "recommendedby": "6"
+},{
+  "_id": 9,
+  "namesurname": "Cayetano Polo",
+  "address": "Catalunya 14",
+  "city": "Barcelona",
+  "postalcode": "08002",
+  "phone": "633333423",
+  "email": "cayetanopolo@gmail.com",
+  "registerdate": "28/02/2020",
+  "recommendedby": "1"
+},{
+  "_id": 10,
+  "namesurname": "Vanessa Polo",
+  "address": "Catalunya 14",
+  "city": "Barcelona",
+  "postalcode": "08002",
+  "phone": "633333427",
+  "email": "vanessapolo@gmail.com",
+  "registerdate": "28/02/2020",
+  "recommendedby": "1"
+}]

@@ -1,0 +1,46 @@
+[{
+  "_id": 1,
+  "companyname": "Ray Ban",
+  "address": "Castellana 16",
+  "city": "Madrid",
+  "postalcode": "28046",
+  "phone": "611111111",
+  "fax": "911111111",
+  "nif": "12345678A"
+},{
+  "_id": 2,
+  "companyname": "Oakley",
+  "address": "Sant Antoni 20",
+  "city": "Barcelona",
+  "postalcode": "08014",
+  "phone": "62222222",
+  "fax": "92222222",
+  "nif": "12345678B"
+},{
+  "_id": 3,
+  "companyname": "Polaroid",
+  "address": "Catalunya 10",
+  "city": "Barcelona",
+  "postalcode": "08002",
+  "phone": "633333333",
+  "fax": "933333333",
+  "nif": "12345678C"
+},{
+  "_id": 4,
+  "companyname": "Police",
+  "address": "Constitució 54",
+  "city": "València",
+  "postalcode": "46009",
+  "phone": "644444444",
+  "fax": "944444444",
+  "nif": "12345678D"
+},{
+  "_id": 5,
+  "companyname": "Arnette",
+  "address": "América 120",
+  "city": "Madrid",
+  "postalcode": "28042",
+  "phone": "655555555",
+  "fax": "955555555",
+  "nif": "12345678E"
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": 1,
+  "modelname": "Ray Ban Aviator #1",
+  "brand_id": "1",
+  "brandname": "Ray Ban Aviator",
+  "provider_id": "1"
+},{
+  "_id": 2,
+  "modelname": "Ray Ban Aviator #2",
+  "brand_id": "1",
+  "brandname": "Ray Ban Aviator",
+  "provider_id": "1"
+},{
+  "_id": 3,
+  "modelname": "Ray Ban Aviator #3",
+  "brand_id": "1",
+  "brandname": "Ray Ban Aviator",
+  "provider_id": "1"
+},{
+  "_id": 4,
+  "modelname": "Oakley Office #1",
+  "brand_id": "2",
+  "brandname": "Oakley Office",
+  "provider_id": "2"
+},{
+  "_id": 5,
+  "modelname": "Oakley Office #2",
+  "brand_id": "2",
+  "brandname": "Oakley Office",
+  "provider_id": "2"
+},{
+  "_id": 6,
+  "modelname": "Oakley Sun Glasses #1",
+  "brand_id": "3",
+  "brandname": "Oakley Sun Glasses",
+  "provider_id": "2"
+},{
+  "_id": 7,
+  "modelname": "Oakley Sun Glasses #2",
+  "brand_id": "3",
+  "brandname": "Oakley Sun Glasses",
+  "provider_id": "2"
+}]
