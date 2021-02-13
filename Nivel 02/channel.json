@@ -1,0 +1,22 @@
+[{
+  "_id": 1,
+  "user_id": 1,
+  "name": "Guitar covers",
+  "description": "Hi, I am learning to play the guitar and I'll be posting some of my favourites songs played by myself.",
+  "datetime": "01/02/2021 09:02",
+  "usersfollowers": [
+    2,
+    3
+  ]
+},{
+  "_id": 2,
+  "user_id": 3,
+  "name": "Funny Gaming Things",
+  "description": "Miscellaneous thoughts and curiosities about the online gaming world & community.",
+  "datetime": "06/02/2021 12:07",
+  "usersfollowers": [
+    1,
+    2,
+    5
+  ]
+}]

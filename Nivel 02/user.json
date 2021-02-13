@@ -1,0 +1,33 @@
+[{
+  "_id": 1,
+  "email": "viking@gmail.com",
+  "password": "b8uyu9okj",
+  "username": "viking",
+  "birthdate": "12/96/1986",
+  "sexe": "Female",
+  "country": "Norway"
+},{
+  "_id": 2,
+  "email": "believe_in_yourself@gmail.com",
+  "password": "fde456yhj",
+  "username": "believe_in_yourself",
+  "birthdate": "14/08/1987",
+  "sexe": "Female",
+  "country": "Ireland"
+},{
+  "_id": 3,
+  "email": "morenillo92@gmail.com",
+  "password": "vg7uhui",
+  "username": "morenillo92",
+  "birthdate": "04/07/1992",
+  "sexe": "Male",
+  "country": "Spain"
+},{
+  "_id": 4,
+  "email": "cheburashka88@gmail.com",
+  "password": "bhy765rf",
+  "username": "cheburashka88",
+  "birthdate": "22/03/1988",
+  "sexe": "None",
+  "country": "Soviet Union"
+}]

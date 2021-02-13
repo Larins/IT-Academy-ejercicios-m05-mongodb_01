@@ -1,0 +1,153 @@
+[{
+  "_id": 1,
+  "state": "public",
+  "user_id": 1,
+  "title": "Guitar Cover - 'Replica' by Sonata Arctica",
+  "description": "I am learning to play the guitar and here's a cover of one of my favourite songs: 'Replica' by Sonata Arctica.",
+  "size": "78 MB",
+  "file": "replica_guitar_cover.mkv",
+  "length": "00:05:07",
+  "thumbnail": "cover_replica_mini.png",
+  "tags": [
+    "cover",
+    "guitar",
+    "sonata arctica",
+    "music",
+    "rock",
+    "metal",
+    "progressive",
+    "learning"
+  ],
+  "datetime": "01/02/2021 09:36",
+  "interactionuser": [
+    2,
+    3
+  ],
+  "interactiontype": [
+    "Like",
+    "Comment"
+  ],
+  "interactiondatetime": [
+    "02/02/2021 13:12",
+    "04/02/2021 09:19"
+  ],
+  "interactioncommenttext": [
+    "",
+    "Good job!"
+  ]
+},{
+  "_id": 2,
+  "state": "ocult",
+  "user_id": 1,
+  "title": "Guitar Cover - 'Follow Me' by Savatage",
+  "description": "I am learning to play the guitar and here's a cover of one of my favourite songs: 'Follow Me' by Savatage.",
+  "size": "68 MB",
+  "file": "follow_me_guitar_cover.mkv",
+  "length": "00:04:56",
+  "thumbnail": "cover_follow_me_mini.png",
+  "tags": [
+    "cover",
+    "guitar",
+    "savatage",
+    "music",
+    "rock",
+    "metal",
+    "progressive",
+    "learning"
+  ],
+  "datetime": "02/02/2021 12:45",
+  "interactionuser": [],
+  "interactiontype": [],
+  "interactiondatetime": [],
+  "interactioncommenttext": []
+},{
+  "_id": 3,
+  "state": "private",
+  "user_id": 2,
+  "title": "Tips I use to breath away a panic attack",
+  "description": "I can't always prevent panic attacks. When I feel like I'm drowning in fear, I use these breathing tools and tricks... and I feel just a little bit better ;) Disclaimer: This is not professional advice. If you are experiencing troublesome feelings or thoughts you may consider asking for professional help.",
+  "size": "97 MB",
+  "file": "tips_breath_panic_attack",
+  "length": "00:08:34",
+  "thumbnail": "tips_beathing.png",
+  "tags": [
+    "breathing",
+    "anxiety",
+    "mental health",
+    "breath",
+    "fear",
+    "panic attack"
+  ],
+  "datetime": "04/02/2021 19:54",
+  "interactionuser": [],
+  "interactiontype": [],
+  "interactiondatetime": [],
+  "interactioncommenttext": []
+},{
+  "_id": 4,
+  "state": "public",
+  "user_id": 4,
+  "title": "How to speak to a trans/intersex/non binary person",
+  "description": "We trans/intersex/non binary deserve to be talked to in a way which is respectful with our reality (body, feelings, identity, etc.). However it is a quite plain need, some people fail to speak to us respectfully, and sometimes it's because a lack of knowledge. Watch this tutorial if you wanna learn how we would like to be treated.",
+  "size": "121 MB",
+  "file": "how_to_speak_trans_inter_non_binary.mkv",
+  "length": "00:12:14",
+  "thumbnail": "how_to_speak_trans_inter_non_binary.png",
+  "tags": [
+    "trans",
+    "intersex",
+    "non binary",
+    "respectful talking"
+  ],
+  "datetime": "04/02/2021 23:02",
+  "interactionuser": [
+    1,
+    2
+  ],
+  "interactiontype": [
+    "Comment",
+    "Like"
+  ],
+  "interactiondatetime": [
+    "06/02/2021 17:18",
+    "09/02/2021 17:14"
+  ],
+  "interactioncommenttext": [
+    "Thank you for the info, I hope I can do better from now on!",
+    ""
+  ]
+},{
+  "_id": 5,
+  "state": "public",
+  "user_id": 3,
+  "title": "How videogames taught me to fight racism",
+  "description": "Just some reflections about gaming, online friends and how the gaming community is (mainly) a very nice place. This video is meant for teen and young gamers but for their concerned parents and families too.",
+  "size": "56 MB",
+  "file": "videogames_against_racism.mkv",
+  "length": "00:07:12",
+  "thumbnail": "videogames_against_racism.png",
+  "tags": [
+    "videogames",
+    "gaming community",
+    "online gaming",
+    "online friends",
+    "racism"
+  ],
+  "datetime": "06/02/2021 16:23",
+  "interactionuser": [
+    4,
+    1
+  ],
+  "interactiontype": [
+    "Like",
+    "Dislike"
+  ],
+  "interactiondatetime": [
+    "11/02/2021 12:13",
+    "11/02/2021 15:20"
+  ],
+  "interactioncommenttext": [
+    "",
+    ""
+  ]
+}]
