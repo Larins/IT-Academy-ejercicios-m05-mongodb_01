@@ -1,0 +1,55 @@
+[{
+  "_id": 1,
+  "album_id": 1,
+  "artist_id": 1,
+  "title": "Edge of Thorns",
+  "duration": "00:05:56"
+},{
+  "_id": 2,
+  "album_id": 1,
+  "artist_id": 1,
+  "title": "He carves his stone",
+  "duration": "00:04:11"
+},{
+  "_id": 3,
+  "album_id": 1,
+  "artist_id": 1,
+  "title": "Lights Out",
+  "duration": "00:03:12"
+},{
+  "_id": 4,
+  "album_id": 2,
+  "artist_id": 2,
+  "title": "Imaginations from the other side",
+  "duration": "00:07:18"
+},{
+  "_id": 5,
+  "album_id": 2,
+  "artist_id": 2,
+  "title": "I'm alive",
+  "duration": "00:05:30"
+},{
+  "_id": 6,
+  "album_id": 2,
+  "artist_id": 2,
+  "title": "A past and future secret",
+  "duration": "00:03:47"
+},{
+  "_id": 7,
+  "album_id": 3,
+  "artist_id": 3,
+  "title": "Blank file",
+  "duration": "00:04:05"
+},{
+  "_id": 8,
+  "album_id": 3,
+  "artist_id": 3,
+  "title": "My land",
+  "duration": "00:04:37"
+},{
+  "_id": 9,
+  "album_id": 3,
+  "artist_id": 3,
+  "title": "6th commandment",
+  "duration": "00:03:42"
+}]

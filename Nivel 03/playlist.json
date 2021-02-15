@@ -1,0 +1,32 @@
+[{
+  "_id": 1,
+  "user_id": 1,
+  "title": "Music to program MongoDB",
+  "song_id": [
+    1,
+    2,
+    3,
+    9,
+    6
+  ],
+  "datetime": "13/02/2020 15:16",
+  "state": "Public",
+  "COLABORATION": [
+    {
+      "songadded_user_id": [
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "songadded_datetime": [
+        "13/02/2020 15:21",
+        "13/02/2020 15:22",
+        "13/02/2020 15:24",
+        "21/07/2020 09:45",
+        "21/07/2020 09:46"
+      ]
+    }
+  ]
+}]

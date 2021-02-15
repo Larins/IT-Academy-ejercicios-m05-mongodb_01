@@ -1,0 +1,44 @@
+[{
+  "_id": 1,
+  "name": "Savatage",
+  "artist_thumbnail": "savatage.png",
+  "related_artists": [],
+  "album_id": [
+    1
+  ],
+  "song_id": [
+    1,
+    2,
+    3
+  ]
+},{
+  "_id": 2,
+  "name": "Blind Guardian",
+  "artist_thumbnail": "blind_guardian.png",
+  "related_artists": [
+    3
+  ],
+  "album_id": [
+    2
+  ],
+  "song_id": [
+    4,
+    5,
+    6
+  ]
+},{
+  "_id": 3,
+  "name": "Sonata Arctica",
+  "artist_thumbnail": "sonata_arctica.png",
+  "related_artists": [
+    2
+  ],
+  "album_id": [
+    3
+  ],
+  "song_id": [
+    7,
+    8,
+    9
+  ]
+}]

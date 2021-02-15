@@ -1,0 +1,147 @@
+[{
+  "_id": 1,
+  "email": "analopez@gmail.com",
+  "password": "y7uhhu8ok",
+  "username": "analopez",
+  "birthdate": "11/01/1981",
+  "sex": "Female",
+  "country": "Spain",
+  "zipcode": "08850",
+  "membersince": "01/01/2020 09:43",
+  "accounttype": [
+    "Premium",
+    "Premium",
+    "Free"
+  ],
+  "MUSIC_BEHAVIOUR": [
+    {
+      "playlist_id": [
+        1
+      ],
+      "following_playlist_id": [],
+      "following_artist_id": [
+        1
+      ],
+      "following_album_id": [
+        1
+      ],
+      "following_song_id": [
+        9
+      ]
+    }
+  ],
+  "PAYMENT_DATA": [
+    {
+      "subscription_order": [
+        "1",
+        "2",
+        "3"
+      ],
+      "subscription_ini": [
+        "01/01/2020 00:00",
+        "01/06/2020 00:00",
+        ""
+      ],
+      "subscription_fin": [
+        "01/06/2020 00:00",
+        "01/01/2021 00:00",
+        ""
+      ],
+      "payment_type": [
+        "Creditcard",
+        "Paypal",
+        ""
+      ],
+      "payment_datetime": [
+        "01/01/2020 09:51",
+        "27/05/2020 09:32"
+      ],
+      "payment_price": [
+        "10 €",
+        "10 €",
+        "0 €"
+      ],
+      "creditcard_number": [
+        "1234 5678 9012 3456",
+        ""
+      ],
+      "creditcard_caducity": [
+        "06/2023",
+        ""
+      ],
+      "creditcard_code": [
+        "123",
+        ""
+      ],
+      "paypal_username": [
+        "",
+        "analopez",
+        ""
+      ]
+    }
+  ]
+},{
+  "_id": 2,
+  "email": "charlycast@gmail.com",
+  "password": "rtff78",
+  "username": "charlycast",
+  "birthdate": "11/01/1986",
+  "sex": "None",
+  "country": "Spain",
+  "zipcode": "46012",
+  "membersince": "06/01/2020 12:34",
+  "accounttype": [
+    "Free"
+  ],
+  "MUSIC_BEHAVIOUR": [
+    {
+      "playlist_id": [],
+      "following_playlist_id": [
+        1
+      ],
+      "following_artist_id": [
+        1,
+        2
+      ],
+      "following_album_id": [
+        1,
+        2
+      ],
+      "following_song_id": []
+    }
+  ],
+  "PAYMENT_DATA": [
+    {
+      "subscription_order": [
+        ""
+      ],
+      "subscription_ini": [
+        ""
+      ],
+      "subscription_fin": [
+        ""
+      ],
+      "payment_type": [
+        ""
+      ],
+      "payment_datetime": [
+        ""
+      ],
+      "payment_price": [
+        ""
+      ],
+      "creditcard_number": [
+        ""
+      ],
+      "creditcard_caducity": [
+        ""
+      ],
+      "creditcard_code": [
+        ""
+      ],
+      "paypal_username": [
+        ""
+      ]
+    }
+  ]
+}]
